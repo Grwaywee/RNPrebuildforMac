@@ -1,0 +1,2 @@
+*.xcframework filter=lfs diff=lfs merge=lfs -text
+Binary/** filter=lfs diff=lfs merge=lfs -text

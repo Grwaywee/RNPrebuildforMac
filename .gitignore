@@ -1,0 +1,16 @@
+.DS_Store
+Dist/
+Checksums/
+Products.snip
+Targets.snip
+Package.swift.bak
+.swiftpm/xcode/**/xcuserdata/
+Binary/**/.DS_Store
+.DS_Store
+Dist/
+Checksums/
+Products.snip
+Targets.snip
+Package.swift.bak
+.swiftpm/xcode/**/xcuserdata/
+Binary/**/.DS_Store

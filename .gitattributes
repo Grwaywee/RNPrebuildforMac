@@ -1,3 +1,4 @@
+Binary/**/*.plist -filter -merge -diff
 *.xcframework filter=lfs diff=lfs merge=lfs -text
 Binary/** filter=lfs diff=lfs merge=lfs -text
 Binary/**/*.plist !text !filter !merge !diff

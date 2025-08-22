@@ -9,40 +9,70 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>RCTAnimation.xcscheme_^#shared#^_</key>
+		<key>DoubleConversion.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
-		<key>RCTDeprecation.xcscheme_^#shared#^_</key>
+		<key>FBReactNativeSpec.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
-		<key>RCTImage.xcscheme_^#shared#^_</key>
+		<key>RCTAnimation.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
-		<key>RCTLinking.xcscheme_^#shared#^_</key>
+		<key>RCTBlob.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
-		<key>RCTNetwork.xcscheme_^#shared#^_</key>
+		<key>RCTDeprecation.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>6</integer>
 		</dict>
-		<key>RCTText.xcscheme_^#shared#^_</key>
+		<key>RCTFabric.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>7</integer>
 		</dict>
-		<key>RCTVibration.xcscheme_^#shared#^_</key>
+		<key>RCTImage.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>8</integer>
+		</dict>
+		<key>RCTLinking.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>RCTNetwork.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+		<key>RCTSettings.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>RCTText.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+		<key>RCTTypeSafety.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>RCTVibration.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
 		</dict>
 		<key>RNPrebuildforMac-Package.xcscheme_^#shared#^_</key>
 		<dict>
@@ -52,57 +82,287 @@
 		<key>React.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>9</integer>
+			<integer>15</integer>
 		</dict>
 		<key>ReactCommon.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>10</integer>
-		</dict>
-		<key>React_jsc.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>11</integer>
-		</dict>
-		<key>SocketRocket.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>12</integer>
-		</dict>
-		<key>cxxreact.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>13</integer>
-		</dict>
-		<key>fmt.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>14</integer>
-		</dict>
-		<key>folly.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>15</integer>
-		</dict>
-		<key>glog.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
 			<integer>16</integer>
 		</dict>
-		<key>jsi.xcscheme_^#shared#^_</key>
+		<key>React_Fabric.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>17</integer>
 		</dict>
-		<key>yoga.xcscheme_^#shared#^_</key>
+		<key>React_FabricComponents.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>18</integer>
 		</dict>
+		<key>React_FabricImage.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>19</integer>
+		</dict>
+		<key>React_ImageManager.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>20</integer>
+		</dict>
+		<key>React_Mapbuffer.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>21</integer>
+		</dict>
+		<key>React_NativeModulesApple.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>22</integer>
+		</dict>
+		<key>React_RCTAppDelegate.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>23</integer>
+		</dict>
+		<key>React_RuntimeApple.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>24</integer>
+		</dict>
+		<key>React_RuntimeCore.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>25</integer>
+		</dict>
+		<key>React_debug.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>26</integer>
+		</dict>
+		<key>React_defaultsnativemodule.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>27</integer>
+		</dict>
+		<key>React_domnativemodule.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>28</integer>
+		</dict>
+		<key>React_featureflags.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>29</integer>
+		</dict>
+		<key>React_featureflagsnativemodule.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>30</integer>
+		</dict>
+		<key>React_graphics.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>31</integer>
+		</dict>
+		<key>React_jsc.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>32</integer>
+		</dict>
+		<key>React_jserrorhandler.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>33</integer>
+		</dict>
+		<key>React_microtasksnativemodule.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>34</integer>
+		</dict>
+		<key>React_performancetimeline.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>35</integer>
+		</dict>
+		<key>React_rendererconsistency.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>36</integer>
+		</dict>
+		<key>React_rendererdebug.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>37</integer>
+		</dict>
+		<key>React_runtimescheduler.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>38</integer>
+		</dict>
+		<key>React_utils.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>39</integer>
+		</dict>
+		<key>SocketRocket.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>40</integer>
+		</dict>
+		<key>cxxreact.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>41</integer>
+		</dict>
+		<key>fmt.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>42</integer>
+		</dict>
+		<key>folly.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>43</integer>
+		</dict>
+		<key>glog.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>44</integer>
+		</dict>
+		<key>idlecallbacksnativemodule.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>45</integer>
+		</dict>
+		<key>jsi.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>46</integer>
+		</dict>
+		<key>jsinspector_modern.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>47</integer>
+		</dict>
+		<key>jsinspector_moderntracing.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>48</integer>
+		</dict>
+		<key>jsireact.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>49</integer>
+		</dict>
+		<key>logger.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>50</integer>
+		</dict>
+		<key>reactperflogger.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>51</integer>
+		</dict>
+		<key>yoga.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>52</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>CoreModules</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>Placeholder</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>RCTAnimation</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>RCTDeprecation</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>RCTImage</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>RCTLinking</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>RCTNetwork</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>RCTText</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>RCTVibration</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>React</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>ReactCommon</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>React_jsc</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>SocketRocket</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>cxxreact</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>fmt</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>folly</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>glog</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>jsi</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>yoga</key>
 		<dict>
 			<key>primary</key>
 			<true/>
